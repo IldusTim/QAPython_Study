@@ -1,1 +1,1 @@
-# QAPython_Study
+# Sushibox-e2e
